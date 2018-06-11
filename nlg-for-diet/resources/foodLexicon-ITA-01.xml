@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Italian default lexicon for simpleNLG -->
+<lexicon>
+<!--###############################
+ MANUAL LEXICON
+ ###############################-->
+
+<!--###############################
+ MANUAL LEXICON
+ ###############################-->
+
+<!-- ADJECTIVES-->
+ 	<word>
+		<base> buonerrimo </base>
+		<category> adjective </category>
+		<id> buonerrimo_1</id>
+		<plural> buoni </plural>
+		<feminine_singular>buonerrima</feminine_singular>
+		<feminine_plural>buonerrime</feminine_plural>
+		<comparative>buonerrimo</comparative>
+		<superlative>buonerrimissimo</superlative>
+		<superlative_feminine_singular>buonerrimissima</superlative_feminine_singular>
+		<superlative_feminine_plural>buonerrissime</superlative_feminine_plural>
+		<qualitative/>
+	</word>
+	<!-- NOUNS -->
+	<word>
+		<base> contadinoo </base>
+		<category> noun </category>
+		<id> c_1</id>
+		<plural> contadini </plural>
+		<gender> masculine </gender>
+		<opposite_gender> contadina </opposite_gender>
+	</word>
+<!-- ADVERBS -->
+<word>
+  <base>abbastanze</base>
+  <id> abbastanze_1</id>
+  <category>adverb</category>
+</word>
+
+<!-- VERBS -->
+<word>
+  <base>mantecare</base>
+  <category>verb</category>
+  <id>grattuggiare_1</id>
+</word>
+<word>
+  <base>emulsionare</base>
+  <category>verb</category>
+  <id>157</id>
+  <present1s>accado</present1s>
+  <present2s>accadi</present2s>
+  <present3s>accade</present3s>
+  <present1p>accadiamo</present1p>
+  <present2p>accadete</present2p>
+  <present3p>accadono</present3p>
+  <subjunctive1s>accada</subjunctive1s>
+  <subjunctive2s>accada</subjunctive2s>
+  <subjunctive3s>accada</subjunctive3s>
+  <subjunctive1p>accadiamo</subjunctive1p>
+  <subjunctive2p>accadiate</subjunctive2p>
+  <subjunctive3p>accadano</subjunctive3p>
+  <future1s>accadrò</future1s>
+  <future2s>accadrai</future2s>
+  <future3s>accadrà</future3s>
+  <future1p>accadremo</future1p>
+  <future2p>accadrete</future2p>
+  <future3p>accadranno</future3p>
+  <cond1s>accadrei</cond1s>
+  <cond2s>accadresti</cond2s>
+  <cond3s>accadrebbe</cond3s>
+  <cond1p>accadremmo</cond1p>
+  <cond2p>accadreste</cond2p>
+  <cond3p>accadrebbero</cond3p>
+  <impf1s>accadevo</impf1s>
+  <impf2s>accadevi</impf2s>
+  <impf3s>accadeva</impf3s>
+  <impf1p>accadevamo</impf1p>
+  <impf2p>accadevate</impf2p>
+  <impf3p>accadevano</impf3p>
+  <pastParticiple>accaduto</pastParticiple>
+  <feminine_past_participle>accaduta</feminine_past_participle>
+  <remote_past1s>accaddi</remote_past1s>
+  <remote_past2s>accadesti</remote_past2s>
+  <remote_past3s>accadde</remote_past3s>
+  <remote_past1p>accademmo</remote_past1p>
+  <remote_past2p>accadeste</remote_past2p>
+  <remote_past3p>accaddero</remote_past3p>
+</word>
+
+	
+</lexicon>

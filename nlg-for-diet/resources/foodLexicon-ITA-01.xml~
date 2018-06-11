@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Italian default lexicon for simpleNLG -->
+<lexicon>
+<!--###############################
+ MANUAL LEXICON
+ ###############################-->
+
+<!--###############################
+ MANUAL LEXICON
+ ###############################-->
+
+<!-- ADJECTIVES-->
+ 	<word>
+		<base> buonerrimo </base>
+		<category> adjective </category>
+		<id> buono_1</id>
+		<plural> buoni </plural>
+		<feminine_singular>buona</feminine_singular>
+		<feminine_plural>buone</feminine_plural>
+		<comparative>migliore</comparative>
+		<superlative>ottimo</superlative>
+		<superlative_feminine_singular>ottima</superlative_feminine_singular>
+		<superlative_feminine_plural>ottime</superlative_feminine_plural>
+		<qualitative/>
+	</word>
